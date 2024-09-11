@@ -2,7 +2,7 @@
 This is Computer Vision for detect pothole with 81% accuracy
 
 
-For try the model, please refer to this link.
+For try the model, please refer to this link in RoboFlow .
 
 Images Only :https://detect.roboflow.com/?model=pothole-detect&version=1&api_key=fGeygspoxj1n80j8oih3
 
